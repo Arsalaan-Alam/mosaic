@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (libraries mosaic mosaic.ui matrix.charts matrix.ansi matrix.grid))
+
